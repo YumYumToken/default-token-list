@@ -1,0 +1,26 @@
+[
+  {
+    "chainId": 84531,
+    "address": "0x4200000000000000000000000000000000000006",
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd0A1E359811322d97991E03f863a0C30C2cF029C/logo.png"
+  },
+  {
+    "name": "USDC",
+    "address": "0xCF29ec78Aa0E57beefAB81656ab7f698FD8CF566",
+    "symbol": "USDC",
+    "decimals": 18,
+    "chainId": 84531,
+    "logoURI": "https://tokens.1inch.io/0x7f5c764cbc14f9669b88837ca1490cca17c31607.png"
+  },
+  {
+    "name": "USDT",
+    "address": "0xa5E88EbBbB0f08aeDf1933fcFB1BE1d657838CA3",
+    "symbol": "USDT",
+    "decimals": 18,
+    "chainId": 84531,
+    "logoURI": "https://tokens.1inch.io/0xdac17f958d2ee523a2206206994597c13d831ec7.png"
+  }
+]
