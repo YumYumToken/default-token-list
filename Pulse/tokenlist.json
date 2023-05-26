@@ -1,0 +1,82 @@
+{
+  "name": "YumYumSwap Labs Default",
+  "timestamp": "2023-04-14T04:58:04.015Z",
+  "version": {
+    "major": 9,
+    "minor": 3,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+  "keywords": [
+    "yumyumswap",
+    "default"
+  ],
+  "tokens": [
+    
+    {
+      "name": "USD Coin from Ethereum",
+      "address": "0x15D38573d2feeb82e7ad5187aB8c1D52810B1f07",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 369,
+      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x15D38573d2feeb82e7ad5187aB8c1D52810B1f07.png"
+    },
+    {
+      "name": "Tether USD from Ethereum",
+      "address": "0x0Cb6F5a34ad42ec934882A05265A7d5F59b51A2f",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 369,
+      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x0Cb6F5a34ad42ec934882A05265A7d5F59b51A2f.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0xA1077a294dDE1B09bB078844df40758a5D0f9a27",
+      "name": "Wrapped Pulse",
+      "symbol": "WPLS",
+      "decimals": 18,
+      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0xA1077a294dDE1B09bB078844df40758a5D0f9a27.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0xefD766cCb38EaF1dfd701853BFCe31359239F305",
+      "name": "Dai Stablecoin from Ethereum",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0xefD766cCb38EaF1dfd701853BFCe31359239F305.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x95B303987A60C71504D99Aa1b13B4DA07b0790ab",
+      "name": "PulseX",
+      "symbol": "PLSX",
+      "decimals": 18,
+      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x95B303987A60C71504D99Aa1b13B4DA07b0790ab.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39",
+      "name": "HEX",
+      "symbol": "HEX",
+      "decimals": 8,
+      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0xb17D901469B9208B17d916112988A3FeD19b5cA1",
+      "name": "WBTC",
+      "symbol": "Wrapped BTC from ethereum",
+      "decimals": 8,
+      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0xb17D901469B9208B17d916112988A3FeD19b5cA1.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x02DcdD04e3F455D838cd1249292C58f3B79e3C3C",
+      "name": "WETH",
+      "symbol": "Wrapped ETH from ethereum",
+      "decimals": 18,
+      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x02DcdD04e3F455D838cd1249292C58f3B79e3C3C.png"
+    }
+  ]
+}
