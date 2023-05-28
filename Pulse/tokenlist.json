@@ -13,7 +13,14 @@
     "default"
   ],
   "tokens": [
-    
+    {
+      "name": "Yum Yum",
+      "address": "0x6367B21D23dBA93E932A87467318DC07CD24bC00",
+      "symbol": "YUMY",
+      "decimals": 18,
+      "chainId": 369,
+      "logoURI": "https://raw.githubusercontent.com/YumYumToken/default-token-list/main/BaseGoerli/0x38DC3A05a914c22Ef8c6d2dB90eB2D572f79d279.png"
+    },
     {
       "name": "USD Coin from Ethereum",
       "address": "0x15D38573d2feeb82e7ad5187aB8c1D52810B1f07",
