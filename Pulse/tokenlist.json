@@ -169,6 +169,14 @@
       "symbol": "PEPE",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/YumYumToken/default-token-list/main/Pulse/0x6982508145454Ce325dDbE47a25d4ec3d2311933.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x2fa878Ab3F87CC1C9737Fc071108F904c0B0C95d",
+      "name": "Incentive",
+      "symbol": "INC",
+      "decimals": 18,
+      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x2fa878Ab3F87CC1C9737Fc071108F904c0B0C95d.png"
     }
   ]
 }
