@@ -74,6 +74,14 @@
     },
     {
       "chainId": 369,
+      "address": "0x57fde0a71132198BBeC939B98976993d8D89D225",
+      "name": "HEX from Ethereum",
+      "symbol": "HEX",
+      "decimals": 8,
+      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x57fde0a71132198BBeC939B98976993d8D89D225.png"
+    },
+    {
+      "chainId": 369,
       "address": "0xb17D901469B9208B17d916112988A3FeD19b5cA1",
       "name": "Wrapped BTC from ethereum",
       "symbol": "WBTC",
