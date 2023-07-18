@@ -1,6 +1,6 @@
 {
   "name": "@yumyumswap/default-token-list",
-  "version": "4.0.2",
+  "version": "5.0.1",
   "description": "The YumYumSwap default token list",
   "main": "build/uniswap-default.tokenlist.json",
   "scripts": {
@@ -29,7 +29,7 @@
   "homepage": "https://github.com/YumYumToken/default-token-list#readme",
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",
-    "@yumyumswap/token-lists": "^4.0.1",
+    "@yumyumswap/token-lists": "^5.0.1",
     "@uniswap/token-list-bridge-utils": "^1.3.2",
     "ajv": "^6.12.3",
     "chai": "^4.2.0",

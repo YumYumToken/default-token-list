@@ -1,0 +1,33 @@
+{
+  "name": "YumYumSwap Labs Default",
+  "timestamp": "2023-04-14T04:58:04.015Z",
+  "version": {
+    "major": 9,
+    "minor": 3,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+  "keywords": [
+    "yumyumswap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "chainId": 8453,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd0A1E359811322d97991E03f863a0C30C2cF029C/logo.png"
+    },
+    {
+      "chainId": 8453,
+      "address": "0x382BF880D4046231A90b834ada54931899dD1c5f",
+      "name": "Yum Yum",
+      "symbol": "YUMY",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/YumYumToken/default-token-list/main/Base/0x382BF880D4046231A90b834ada54931899dD1c5f.png"
+    }
+  ]
+}
