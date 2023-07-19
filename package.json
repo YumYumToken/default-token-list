@@ -1,6 +1,6 @@
 {
   "name": "@yumyumswap/default-token-list",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "The YumYumSwap default token list",
   "main": "build/uniswap-default.tokenlist.json",
   "scripts": {

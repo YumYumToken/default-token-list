@@ -14,6 +14,22 @@
   ],
   "tokens": [
     {
+      "name": "USDC",
+      "address": "0xE5417A52d9535f0069058324958Bf4d89E2e38A1",
+      "symbol": "USDC",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://tokens.1inch.io/0x7f5c764cbc14f9669b88837ca1490cca17c31607.png"
+    },
+    {
+      "name": "USDT",
+      "address": "0x4528BE9055935C213020085656AD3c1E99BF1f32",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 8453,
+      "logoURI": "https://tokens.1inch.io/0xdac17f958d2ee523a2206206994597c13d831ec7.png"
+    },
+    {
       "chainId": 8453,
       "address": "0x4200000000000000000000000000000000000006",
       "name": "Wrapped Ether",
