@@ -12,17 +12,17 @@
   "tokens": [
     {
       "chainId": 8453,
-      "name": "axlUSDC",
+      "name": "Axelar Wrapped USDC",
       "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
-      "symbol": "USDC",
+      "symbol": "axlUSDC",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/USDC.svg"
     },
     {
       "chainId": 8453,
-      "name": "axlUSDT",
+      "name": "Axelar Wrapped USDC",
       "address": "0x7f5373AE26c3E8FfC4c77b7255DF7eC1A9aF52a6",
-      "symbol": "USDT",
+      "symbol": "axlUSDT",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/USDT.svg"
     },
